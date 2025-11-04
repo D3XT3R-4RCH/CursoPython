@@ -35,37 +35,70 @@ Para seguir este curso necesitas:
 2. Un editor de texto o entorno de desarrollo integrado (IDE) como:
    - [VS Code](https://code.visualstudio.com/)
    - [PyCharm](https://www.jetbrains.com/pycharm/)
-   - O simplemente la terminal.
+````markdown
+# CursoPython 🐍
+
+Bienvenido al **CursoPython**, un conjunto de apuntes y ejercicios para aprender los fundamentos de Python, pensado para personas que empiezan desde cero.
 
 ---
 
-## 🚀 **Cómo usar este repositorio**
+## � ¿Qué hay en este repositorio?
 
-1. **Clona el repositorio** en tu computadora:
-   ```bash
-   git clone https://github.com/D3XT3R-4RCH/CursoPython.git
+Cada módulo contiene explicaciones y ejercicios prácticos. El material está organizado por carpetas (módulos). En la versión actual del repositorio encontrarás:
 
-    Navega por los módulos y sigue las instrucciones en cada carpeta.
-    Resuelve los ejercicios para poner en práctica lo aprendido.
-    Si tienes dudas, revisa las soluciones o abre un issue.
+- `01-Introduccion` — Qué es Python, cómo instalarlo y tu primer programa "Hola, Mundo".
+- `02-Variables&Tipos` — Variables, tipos de datos y operaciones básicas.
+- `03-Control-de-Flujo` — Condicionales (`if`/`else`) y bucles (`for`/`while`).
 
-🌟 Objetivo
+> Nota: El README anterior listaba más módulos (4, 5, 6, 7). Conservé esa sección previa como propuesta de contenido para ampliar el curso en el futuro.
 
-El objetivo de este curso es:
+---
 
-    Entender los fundamentos de la programación con Python.
-    Desarrollar lógica de programación a través de ejercicios prácticos.
-    Prepararte para avanzar a temas más complejos como desarrollo web, ciencia de datos o inteligencia artificial.
+## Requisitos
 
-💬 Contribuye
+- Python 3.6+ instalado.
+- Un editor o IDE (VS Code, PyCharm, o un editor de texto + terminal).
 
-¿Tienes ideas para mejorar este curso? ¿Encontraste un error? ¡Contribuye con un PR o abre un issue! 👩‍💻👨‍💻
-📞 Contacto
+---
 
-Creador: - [PyCharm](https://www.github.com/D3XT3R-4RCH)
-Si tienes preguntas o sugerencias, no dudes en contactarme.
+## Cómo usar este repositorio
 
-¡Comencemos a aprender Python juntos! 🐍✨
+1. Clona el repositorio:
 
+```powershell
+git clone https://github.com/D3XT3R-4RCH/CursoPython.git
+```
 
-Si necesitas ajustes o más secciones, dime y lo adaptamos. 😊
+2. Entra en las carpetas de los módulos y lee los archivos `README.md` dentro de cada una.
+3. Resuelve los ejercicios y, si lo deseas, envía mejoras via pull request.
+
+---
+
+## Objetivos del curso
+
+- Entender los fundamentos de la programación con Python.
+- Practicar lógica de programación con ejercicios.
+- Prepararte para avanzar a temas como desarrollo web, ciencia de datos o IA.
+
+---
+
+## Contribuir
+
+Si quieres ayudar a mejorar el curso puedes:
+
+- Abrir un issue para reportar un error o sugerir contenido.
+- Enviar un pull request con correcciones o material adicional.
+
+Por favor respeta la estructura de carpetas y añade una pequeña descripción en tu PR.
+
+---
+
+## Contacto y autor
+
+Repositorio original: https://github.com/D3XT3R-4RCH/CursoPython
+
+Si quieres que ponga un nombre de contacto o correo en particular, dímelo y lo actualizo.
+
+¡Empecemos a aprender Python! 🐍
+
+````
